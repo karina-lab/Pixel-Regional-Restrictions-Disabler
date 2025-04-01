@@ -4,7 +4,7 @@ A Magisk Module to enable VoLTE, VoWIFI & 5G for Google Pixel, in countries not 
 
 Only tested on Google Pixel 7 and 8. It might work on other Google devices. Who knows.
 
-Only tested in Chile. Working and actively tested on: Entel & WOM. Should work on Claro & Movistar too.
+Only tested in Chile. Working and actively tested on: Entel & WOM. Should work on Claro & Movistar too. Wrote about this process [over here](https://actitud.xyz/blog/2024/habilitando-5g-volte-y-vowifi-en-un-google-pixel-chile/).
 
 ## Features
 
