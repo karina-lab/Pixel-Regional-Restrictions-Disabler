@@ -122,10 +122,10 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "**********************************"
-  ui_print " Pixel VoLTE, VoWIFI & 5G Enabler "
-  ui_print "                           TCattd "
-  ui_print "**********************************"
+  ui_print "**************************************"
+  ui_print " Pixel Regional Restrictions Disabler "
+  ui_print "                           karina-lab "
+  ui_print "**************************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.

@@ -1,10 +1,12 @@
 # Pixel VoLTE, VoWIFI & 5G Enabler
 
-A Magisk Module to enable VoLTE, VoWIFI & 5G for Google Pixel, in countries not officially supported by Google.
+A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot & Wi-Fi repeater for Google Pixel, in countries not officially supported by Google.
 
-Only tested on Google Pixel 7 and 8. It might work on other Google devices. Who knows.
+This is all-in-one mod for convenience.
 
-Only tested in Chile. Working and actively tested on: Entel & WOM. Should work on Claro & Movistar too. Wrote about this process [over here](https://actitud.xyz/blog/2024/habilitando-5g-volte-y-vowifi-en-un-google-pixel-chile/).
+Tested on Pixel 8 Pro. Should work on others too.
+
+Note that UWB is available only for Pro/Pro XL models.
 
 ## Features
 
@@ -13,16 +15,19 @@ On [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixe
 - VoLTE
 - VoWIFI (Wifi Calling)
 - 5G (SA+NSA)
+- 5 GHz & 6 GHz hotspot
+- Wi-Fi repeater (tethering while connected to Wi-Fi)
+- UWB (Pro/Pro XL models only)
 
 ## Requirements
 
 - Google Pixel 6 or higher (Google Silicon)
-- Rooted with Magisk or Kitsune Magisk v26.4 or higher
+- Rooted with Magisk v26.4 or higher / KernelSU / Apatch
 - A brain
 
 ## Installation
 
-Download the zip from the [release page](https://github.com/TCattd/Pixel-VoLTE-VoWIFI-5G-Enabler/releases) and flash it using Magisk.
+Download the zip from the [release page](https://github.com/karina-lab/Pixel-Regional-Restrictions-Disabler/releases) and flash it using Magisk/KernelSU/Apatch.
 
 Reboot your phone.
 
@@ -30,12 +35,19 @@ You're done!
 
 Remember to enable VoLTE, VoWIFI & 5G in your device settings.
 
+For Wi-Fi stuff, you need to enable hotspot once after installing the mod.
+
+
 ## License
+
 This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
-## Contact
+## Credits
 
-esteban (at) attitude.cl
+
+[esteban](https://github.com/EstebanForge/Pixel-VoLTE-VoWIFI-5G-Enabler) for original VoLTE/VoWiFi/5G enabler module.
+[aside](https://4pda.to/forum/index.php?showtopic=1093998&st=220#entry136638452) for idea how to enable UWB.
+[sbeygi67](https://xdaforums.com/t/guide-root-change-wifi-hotspot-country-to-bypass-regional-restrictions-on-android-10.4703941/) for Wi-Fi country code idea.
 
 ## Disclaimer
 
