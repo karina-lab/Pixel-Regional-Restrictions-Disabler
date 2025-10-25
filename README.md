@@ -1,8 +1,8 @@
 # Pixel Regional Restrictions Disabler
 
-A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot & Wi-Fi repeater for Google Pixel, in countries not officially supported by Google.
+A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot & Wi-Fi repeater for Google Pixel in countries not officially supported by Google.
 
-This is all-in-one mod for convenience.
+This is an all-in-one mod for convenience.
 
 Tested on Pixel 8 Pro. Should work on others too.
 
@@ -10,10 +10,10 @@ Note that UWB is available only for Pro / Pro XL models.
 
 ## Features
 
-On [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixel, this module enables and gives you:
+In [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixel, this module enables and gives you:
 
 - VoLTE
-- VoWIFI (Wifi Calling)
+- VoWiFi (Wifi Calling)
 - 5G (SA+NSA)
 - 5 GHz & 6 GHz hotspot
 - Wi-Fi repeater (tethering while connected to Wi-Fi)
