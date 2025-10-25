@@ -6,7 +6,7 @@ This is all-in-one mod for convenience.
 
 Tested on Pixel 8 Pro. Should work on others too.
 
-Note that UWB is available only for Pro/Pro XL models.
+Note that UWB is available only for Pro / Pro XL models.
 
 ## Features
 
@@ -17,7 +17,7 @@ On [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixe
 - 5G (SA+NSA)
 - 5 GHz & 6 GHz hotspot
 - Wi-Fi repeater (tethering while connected to Wi-Fi)
-- UWB (Pro/Pro XL models only)
+- UWB (Pro / Pro XL models only)
 
 ## Requirements
 
@@ -27,7 +27,7 @@ On [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixe
 
 ## Installation
 
-Download the zip from the [release page](https://github.com/karina-lab/Pixel-Regional-Restrictions-Disabler/releases) and flash it using Magisk/KernelSU/Apatch.
+Download the zip from the [release page](https://github.com/karina-lab/Pixel-Regional-Restrictions-Disabler/releases) and flash it using Magisk / KernelSU / Apatch.
 
 Reboot your phone.
 
@@ -45,7 +45,7 @@ This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.
 ## Credits
 
 
-[esteban](https://github.com/EstebanForge/Pixel-VoLTE-VoWIFI-5G-Enabler) for original VoLTE/VoWiFi/5G enabler module.
+[esteban](https://github.com/EstebanForge/Pixel-VoLTE-VoWIFI-5G-Enabler) for original VoLTE, VoWiFi & 5G enabler module.
 
 [aside](https://4pda.to/forum/index.php?showtopic=1093998&st=220#entry136638452) for idea how to enable UWB.
 
