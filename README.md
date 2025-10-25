@@ -1,4 +1,4 @@
-# Pixel VoLTE, VoWIFI & 5G Enabler
+# Pixel Regional Restrictions Disabler
 
 A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot & Wi-Fi repeater for Google Pixel, in countries not officially supported by Google.
 
