@@ -46,7 +46,9 @@ This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.
 
 
 [esteban](https://github.com/EstebanForge/Pixel-VoLTE-VoWIFI-5G-Enabler) for original VoLTE/VoWiFi/5G enabler module.
+
 [aside](https://4pda.to/forum/index.php?showtopic=1093998&st=220#entry136638452) for idea how to enable UWB.
+
 [sbeygi67](https://xdaforums.com/t/guide-root-change-wifi-hotspot-country-to-bypass-regional-restrictions-on-android-10.4703941/) for Wi-Fi country code idea.
 
 ## Disclaimer
