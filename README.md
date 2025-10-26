@@ -13,7 +13,7 @@ Note that UWB is available only for Pro models.
 In [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixel, this module enables and gives you:
 
 - VoLTE
-- VoWiFi (Wi-Fi Calling)
+- VoWiFi (Wi-Fi calling)
 - 5G (SA+NSA)
 - 5 GHz & 6 GHz hotspot
 - Wi-Fi repeater (hotspot while connected to Wi-Fi)
@@ -37,6 +37,9 @@ Remember to enable VoLTE, VoWiFi, 5G & UWB in your device settings.
 
 You also need to enable hotspot once after installing the module for new options to show up.
 
+## See also
+
+[daradan's Universal Modem Fix fork](https://github.com/daradan/5g_enabler), it works on A16 includuing beta releases.
 
 ## License
 
@@ -55,4 +58,4 @@ This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.
 
 This module is provided as is, without any warranty. You are responsible for any damage caused by using this module. Use at your own risk.
 
-If you have any ideas how to bypass other restricrtions (which? you tell me) please submit a pull request. Thanks!
+If you have any ideas how to bypass any other restricrtions (which? you tell me) please submit a pull request. Thanks!
