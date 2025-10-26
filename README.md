@@ -6,23 +6,23 @@ This is an all-in-one mod for convenience.
 
 Tested on Pixel 8 Pro. Should work on others too.
 
-Note that UWB is available only for Pro / Pro XL models.
+Note that UWB is available only for Pro models. 
 
 ## Features
 
 In [unsupported countries](https://pixel.withgoogle.com/5G/) for the Google Pixel, this module enables and gives you:
 
 - VoLTE
-- VoWiFi (Wifi Calling)
+- VoWiFi (Wi-Fi Calling)
 - 5G (SA+NSA)
 - 5 GHz & 6 GHz hotspot
-- Wi-Fi repeater (tethering while connected to Wi-Fi)
-- UWB (Pro / Pro XL models only)
+- Wi-Fi repeater (hotspot while connected to Wi-Fi)
+- UWB (Pro models only)
 
 ## Requirements
 
 - Google Pixel 6 or higher (Google Silicon)
-- Rooted with Magisk v26.4 or higher / KernelSU / Apatch
+- Rooted with Magisk / KernelSU / Apatch
 - A brain
 
 ## Installation
@@ -33,9 +33,9 @@ Reboot your phone.
 
 You're done!
 
-Remember to enable VoLTE, VoWIFI & 5G in your device settings.
+Remember to enable VoLTE, VoWiFi, 5G & UWB in your device settings.
 
-For Wi-Fi stuff, you need to enable hotspot once after installing the mod.
+You also need to enable hotspot once after installing the module for new options to show up.
 
 
 ## License
@@ -55,4 +55,4 @@ This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.
 
 This module is provided as is, without any warranty. You are responsible for any damage caused by using this module. Use at your own risk.
 
-There will be no support given for this module. If you have any issues, please: help fix them yourself, and submit a pull request. Thanks!
+If you have any ideas how to bypass other restricrtions (which? you tell me) please submit a pull request. Thanks!
