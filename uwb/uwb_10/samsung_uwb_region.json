@@ -1,0 +1,74 @@
+{
+    "DEFAULT": {
+        "channel5": 0,
+        "channel9": 1
+    },
+    "CE": {
+        "country": [
+            "AT",
+            "BE",
+            "BG",
+            "CH",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "HR",
+            "HU",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LV",
+            "LT",
+            "LU",
+            "MT",
+            "NI",
+            "NL",
+            "NO",
+            "PL",
+            "PT",
+            "RO",
+            "SE",
+            "SK",
+            "SI"
+        ],
+        "channel5": 1,
+        "channel9": 1
+    },
+    "FCC": {
+        "country": [
+            "US",
+            "CA"
+        ],
+        "channel5": 1,
+        "channel9": 1
+    },
+    "JP": {
+        "country": [
+            "JP"
+        ],
+        "channel5": 0,
+        "channel9": 1
+    },
+    "TW": {
+        "country": [
+            "TW"
+        ],
+        "channel5": 0,
+        "channel9": 1
+    },
+    "RESTRICTED": {
+        "country": [
+            "00"
+        ],
+        "channel5": 0,
+        "channel9": 0
+    }
+}
