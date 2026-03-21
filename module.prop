@@ -1,7 +1,7 @@
 id=BypassRegionalPixel
 name=Pixel Regional Restrictions Disabler
-version=v1.0.0
-versionCode=100
+version=v1.1.1
+versionCode=111
 author=karina-lab
 description=Enables VoLTE, VoWiFi, 5G, UWB, all Wi-Fi hotspot options for Google Pixel in countries not officially supported by Google.
 updateJson=https://raw.githubusercontent.com/karina-lab/Pixel-Regional-Restrictions-Disabler/main/update.json

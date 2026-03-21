@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.1 - 2026-03-21
+- Add support for Body Temperature in Pixel Thermometer
+
 ## v1.1.0 - 2026-03-21
 - Fix UWB support
 
