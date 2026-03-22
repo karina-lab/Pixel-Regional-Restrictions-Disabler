@@ -8,7 +8,7 @@
 
 # Pixel Regional Restrictions Disabler
 
-A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot, Wi-Fi repeater and Body Temperatire for Google Pixel in countries not officially supported by Google.
+A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot, Wi-Fi repeater, Body Temperatire and Writing Tools for Google Pixel in countries not officially supported by Google.
 
 This is an all-in-one mod for convenience.
 
@@ -23,6 +23,7 @@ In countries [not officially supported](https://pixel.withgoogle.com/5G/) by Goo
 - Wi-Fi repeater (hotspot while connected to Wi-Fi)
 - UWB (Tablet, Pro & Fold models only)
 - Body Temperature in Pixel Thermometer (Pro models of 8-10 series only)
+- Writing Tools in Gboard
 
 ## Requirements
 
@@ -60,3 +61,5 @@ This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.
 - [sbeygi67](https://xdaforums.com/t/guide-root-change-wifi-hotspot-country-to-bypass-regional-restrictions-on-android-10.4703941/) for Wi-Fi country code idea.
 
 - [ypsten](https://xdaforums.com/t/allow-thermometer-app-to-read-body-temperature-in-not-allowed-regions.4652872/page-2#post-89308062) for Body Temperature in Pixel Thermometer.
+
+- [Arsto](https://t.me/GappsLeaksChat/98622) for Gboard flags file.

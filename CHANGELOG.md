@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.2 - 2026-03-21
+- Add support for Writing Tools in Gboard
+
 ## v1.1.1 - 2026-03-21
 - Add support for Body Temperature in Pixel Thermometer
 
