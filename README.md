@@ -16,8 +16,6 @@ In countries [not officially supported](https://pixel.withgoogle.com/5G/) by Goo
 - UWB (Tablet, Pro & Fold models only)
 - Body Temperature in Pixel Thermometer (Pro models of 8-10 series only)
 
-**Note**: Hotspot and Wi-Fi repeater features may not be functional on Pixel 10 Series due to updated hardware/firmware restrictions.
-
 ## Requirements
 
 - Google Pixel 6 or higher (Google Tensor SoC)
