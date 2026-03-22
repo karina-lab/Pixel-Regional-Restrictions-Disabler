@@ -1,9 +1,12 @@
-# Pixel Regional Restrictions Disabler
 > [!CAUTION]
 > ### ⚖️ Legal Disclaimer & Responsibility
 > If certain functions (e.g., **UWB**, **6GHz**) are restricted or illegal in your country, their activation and use are **your sole responsibility**. 
 > 
 > The author is **not responsible** for any misuse, legal consequences, or device instability. By installing this module, you acknowledge that you are using it at your own risk.
+
+
+
+# Pixel Regional Restrictions Disabler
 
 A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot, Wi-Fi repeater and Body Temperatire for Google Pixel in countries not officially supported by Google.
 
