@@ -8,7 +8,7 @@
 
 # Pixel Regional Restrictions Disabler
 
-A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot, Wi-Fi repeater, Body Temperatire and Writing Tools for Google Pixel in countries not officially supported by Google.
+A Magisk Module to enable VoLTE, VoWiFi, 5G, UWB, 5/6 GHz hotspot, Wi-Fi repeater, Body Temperature and Writing Tools for Google Pixel in countries not officially supported by Google.
 
 This is an all-in-one mod for convenience.
 
