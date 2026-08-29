@@ -38,7 +38,7 @@ case "$DEVICE_MODEL" in
         SUB_FOLDER="uwb_67" ;;
     "husky"|"komodo"|"caiman"|"comet")
         SUB_FOLDER="uwb_89" ;;
-    "mustang"|"blazer"|"rango")
+    "mustang"|"blazer"|"rango"|"grizzly"|"kodiak"|"yogi")
         SUB_FOLDER="uwb_10" ;;
     *)
         SUB_FOLDER="" ;;

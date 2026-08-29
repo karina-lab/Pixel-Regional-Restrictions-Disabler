@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.3 - 2026-08-29
+- Add support for Pixel 11 series
+
 ## v1.1.2 - 2026-03-21
 - Add support for Writing Tools in Gboard
 
