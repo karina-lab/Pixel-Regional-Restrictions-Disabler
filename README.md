@@ -48,6 +48,10 @@ In countries [not officially supported](https://pixel.withgoogle.com/5G/) by Goo
 
 - [Battery Info Enabler](https://github.com/klab7/BatteryInfoEnabler) for unlocking battery info in settings on all Pixels.
 
+- [GCamBoost](https://github.com/klab7/GCamBoost) for unlocking some camera features from newer Pixel models.
+
+- [DreamOn](https://github.com/klab7/DreamOn) for unlocking Pixel 10/11 exclusive screen savers.
+
 ## License
 
 This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
