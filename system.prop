@@ -40,6 +40,10 @@ persist.vendor.radio.mbn_load_flag=3
 persist.vendor.radio.mbn_wait_s=60
 persist.vendor.radio.redir_party_num=1
 
+# Force Wi-Fi 6GHz for some devices
+ro.wifi.6ghz.enabled=true
+config.disable_wifi_6ghz=false
+
 # Others
 ril.subscription.types=RUIM
 # RO: 0 no support - 1 nsa - 2 sa - 3 nsa+sa
